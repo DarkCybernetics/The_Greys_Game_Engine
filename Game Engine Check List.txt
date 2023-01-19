@@ -1,0 +1,95 @@
+=====================================
+
+      Game Engine Check List
+
+=====================================
+General Description
+-----------------------
+Setting Splash Screen to define the default game setting or see if they game can run on that system.
+
+Loading screens and animations for GUI elements.
+
+Menu system with clickable or controller selectable buttons.
+
+HUD elements such as the player ammo or life bars.
+
+Smart camera to follow the player around during platforming sequences.
+
+Player Controls with Camera
+
+Controller Support to enhance the ability of a user defined configuration of to see if the device is supported. 
+
+Toggle 3rd/1st Person Camera
+
+Audio and Souund effects using sound sources.
+
+Collision Detection system sphere and box colliders.
+
+Pathfinding for Enemies
+
+Model Loading system to edit the game world.
+
+Debris and Particles
+
+Skybox
+
+Elevators
+
+Lighting(Global illumination/glare/)
+
+Shadows
+
+Material variation for objects in the world.
+
+Transparency
+
+Heightmap
+
+Light sources
+
+Reflections
+
+Physics(Softbody/rigitbody/rag doll) on world objects.
+
+Optimization for performance by way of memory management.
+
+Blender(format) Model loader
+
+Antialiancing
+
+Ability to enter and leave vehicles
+
+Change Combat Styles
+
+Weapon and Object collision on models.
+
+Elemental seasonal changes during a day night cycle of a year.
+
+Snow/sand/rain water accumulates over time.
+
+Areas can flood from typhoons or tornados.
+
+Rock slides , thick mud and quick sand. 
+
+Shooting the wall leaves bullet holes and food steps leave prints.
+
+The reflection of the player can be seen in first person mode when in front of a shiny object like a mirror.
+
+Partial and transparent shadows.
+
+The reflection of the shadow is also present in a reflection of a 3D model.
+ 
+=====================================================================================================================================
+Length
+Normalize
+CrossProduct
+DotProduct
+Renderer
+Camera
+Pitch
+Yaw
+Roll
+Direction
+Vector
+
+
